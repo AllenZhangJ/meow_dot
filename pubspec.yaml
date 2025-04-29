@@ -36,6 +36,7 @@ dependencies:
   package_info_plus: ^8.0.0 # 获取应用信息 (版本检查)
   url_launcher: ^6.3.0 # 打开 URL (下载新版本)
   # flutter_dotenv: ^latest # (如果需要管理 .env 文件)
+  uuid: ^3.0.6
 
 dev_dependencies:
   flutter_test:
